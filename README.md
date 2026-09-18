@@ -3,7 +3,8 @@ The repository should be designed so local-only operation works first, with no a
 
 Sherin Dev Console — Universal IDE
 
-<img width="759" height="2078" alt="image" src="https://github.com/user-attachments/assets/4416020d-c293-4e18-8567-f3b6ff7c7f7b" />
+<img width="751" height="2139" alt="image" src="https://github.com/user-attachments/assets/0a73dad5-ea26-48aa-880a-a3afa275d103" />
+
 
 
 
